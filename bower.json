@@ -1,0 +1,22 @@
+{
+  "name": "practice2",
+  "description": "The following are the requirements to run the project:",
+  "main": "gulpfile.js",
+  "authors": [
+    "Carop13"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Carop13/Talos-Practice-2",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "bootstrap": "^3.3.6"
+  }
+}
